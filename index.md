@@ -1,37 +1,97 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Shichangyu58/Shichangyu58.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>BeiYuu.com</title>
+    <meta name="author" content="BieYuu" />
+    <meta name="renderer" content="webkit">
+    <meta name="description" content="BeiYuu's Blog" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="/atom.xml" />
+    <style>html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-weight:inherit;font-style:inherit;font-family:inherit;font-size:100%;vertical-align:baseline}body{line-height:1;color:#000;background:#fff}ol,ul{list-style:none}table{border-collapse:separate;border-spacing:0;vertical-align:middle}caption,th,td{text-align:left;font-weight:normal;vertical-align:middle}a img{border:none}article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,main{margin:0;padding:0;border:0;outline:0;display:block}audio,canvas,video{display:inline-block;*display:inline;*zoom:1}audio:not([controls]),[hidden]{display:none}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}*{-webkit-tap-highlight-color:rgba(0,0,0,0)}body{font-family:Helvetica,Tahoma,Arial,'Hiragino Sans GB','\51AC\9752\9ED1\4F53','Microsoft YaHei','\5FAE\8F6F\96C5\9ED1',STXihei,'\534E\6587\7EC6\9ED1',SimSun,'\5B8B\4F53',Heiti,'\9ED1\4F53',sans-serif;font-size:16px;}@media screen and (max-width:767px){body{font-size:14px}}a{color:#4a75b5;text-decoration:none;outline:none;}a:hover{text-decoration:underline}a.external{padding-right:13px;background:url("/images/icons.gif") no-repeat right 1px;}a.external:hover{background-position:right -15px}.index-wrapper .aside{position:fixed;top:0;left:0;width:30%;height:100%;max-width:500px;background:#59a0b0;}@media screen and (max-width:767px){.index-wrapper .aside{position:relative;width:100%;height:200px;max-width:none}}.index-wrapper .info-card{position:absolute;margin-top:70%;text-align:center;width:100%;}@media screen and (max-width:767px){.index-wrapper .info-card{margin-top:70px}}.index-wrapper .info-card h1{font-size:40px;color:#fff;margin-bottom:20px;text-shadow:0 0 80px rgba(255,255,255,0.5);letter-spacing:.15em;text-shadow:rgba(255,255,255,0.5) 0 0 15px,rgba(255,255,255,0.5) 0 0 10px}.index-wrapper .info-card a{margin:0 15px}.index-wrapper .index-content{margin-left:30%;padding-top:80px;padding-right:15%;}@media screen and (max-width:767px){.index-wrapper .index-content{margin-left:0;padding-right:0}}.index-wrapper .artical-list{width:70%;margin:0 auto;}@media screen and (max-width:767px){.index-wrapper .artical-list{width:85%}}.index-wrapper .artical-list li{margin-bottom:70px}.index-wrapper .title{display:block;font-size:22px;margin-bottom:15px;word-break:break-all;font-weight:bold;margin-bottom:25px;padding-bottom:10px;border-bottom:2px solid #eee;color:#444;}@media screen and (max-width:767px){.index-wrapper .title{font-size:20px;margin-bottom:10px}}.index-wrapper .title:hover{color:#e50053;text-decoration:none}.index-wrapper .title-desc{color:#999;font-size:14px;line-height:1.6}.body-post{background:#f5f5f5;}@media screen and (max-width:767px){.body-post{background:#fff}}.post-wrapper{width:900px;margin:0 auto;background:#fff;padding:80px 60px;}@media screen and (max-width:767px){.post-wrapper{width:85%;margin:100px auto 50px;padding:0}}.post-wrapper .post-title,.post-wrapper .post-title a{font-size:30px;font-weight:bold;margin-bottom:6px;color:#000;text-align:center;word-wrap:break-word;}@media screen and (max-width:767px){.post-wrapper .post-title,.post-wrapper .post-title a{font-size:24px}}.post-wrapper .post-title:hover,.post-wrapper .post-title a:hover{text-decoration:none}.post-wrapper .post-date{text-align:center;color:#999;margin-bottom:60px;font-size:14px;}@media screen and (max-width:767px){.post-wrapper .post-date{margin-bottom:40px}}.post-wrapper h2{font-size:22px;font-weight:bold;margin-bottom:25px;border-bottom:2px solid #eee;padding-bottom:10px;}@media $mobiel{.post-wrapper h2{font-size:20px}}.post-wrapper h3{font-size:18px;font-weight:bold;margin-bottom:25px;color:#222;}@media screen and (max-width:767px){.post-wrapper h3{font-size:16px}}.post-wrapper h4,.post-wrapper h5,.post-wrapper h6{color:#333;font-weight:bold;margin-bottom:15px}.post-wrapper p{margin-bottom:40px;line-height:1.8em}.post-wrapper code{background:#eee;border:1px solid #ccc;padding:0 5px;font-family:"Courier";line-height:14px;font-size:14px;word-wrap:break-word}.post-wrapper pre{background:#f7f3f7;padding:20px 30px 15px;overflow:auto;margin-bottom:40px;font-size:14px;border:1px solid #eee;color:#b9bdb6;margin-top:-20px;}.post-wrapper pre code{background-color:transparent;border:none;padding:0;word-wrap:normal;}@media screen and (max-width:767px){.post-wrapper pre code{line-height:1em;font-size:12px}}.post-wrapper h4+pre,.post-wrapper h3+pre{margin-top:20px}.post-wrapper ul{margin-bottom:25px;margin-left:25px;}.post-wrapper ul li{margin-bottom:5px;list-style:disc;line-height:1.8em}.post-wrapper p + ul{margin-top:-20px}.post-wrapper ol{margin-bottom:25px;margin-left:25px;}.post-wrapper ol li{margin-bottom:5px;list-style:decimal;line-height:1.1em;}@media screen and (max-width:767px){.post-wrapper ol li{margin-bottom:0;line-height:1em}}.post-wrapper blockquote{margin-left:25px;font-size:14px;font-style:italic}.post-wrapper img{max-width:670px;display:block;margin:10px auto;}@media screen and (max-width:767px){.post-wrapper img{max-width:90%}}.post-wrapper table{margin:0 auto}.about-wrapper{background:#7e96a9;width:900px;margin:0 auto;padding:30px 60px;}@media screen and (max-width:767px){.about-wrapper{width:100%;padding:0 7.5% 30px}}.about-wrapper .aboutme{zoom:1;}.about-wrapper .aboutme:before,.about-wrapper .aboutme:after{content:"";display:table}.about-wrapper .aboutme:after{clear:both}.about-wrapper .aboutme h2{margin-bottom:20px;}.about-wrapper .aboutme h2 a{font-size:18px}.about-wrapper .aboutme li{line-height:1.4;margin-bottom:10px;float:left;width:50%;}@media screen and (max-width:767px){.about-wrapper .aboutme li{float:none;width:80%}}.about-wrapper .aboutme a{color:#fff;font-size:14px}#particles-js{width:100%;height:100%;background-repeat:no-repeat;-webkit-background-size:20%;-moz-background-size:20%;background-size:20%;background-position:50% 50%;background:#38658c;background:-webkit-radial-gradient(top left, #5d3571, #38658c);background:-moz-radial-gradient(top left, #5d3571, #38658c);background:-o-radial-gradient(top left, #5d3571, #38658c);background:-ms-radial-gradient(top left, #5d3571, #38658c);background:radial-gradient(to bottom right, #5d3571, #38658c)}#disqus_container{font-size:12px;}#disqus_container .share-con{float:right;margin-bottom:20px}#disqus_container a.comment{font-size:14px}.prettyprint{background:#f7f3f7;border:0 !important}.pln{color:#1b181b}ol.linenums{margin-top:0;margin-bottom:0;color:#5a7b8c}li.L0,li.L1,li.L2,li.L3,li.L4,li.L5,li.L6,li.L7,li.L8,li.L9{padding-left:.4em;background-color:#f7f3f7;list-style-type:decimal}@media screen{.str{color:#918b3b}.kwd{color:#7b59c0}.com{color:#5a7b8c}.typ{color:#516aec}.lit{color:#a65926}.pun{color:#1b181b}.opn{color:#1b181b}.clo{color:#1b181b}.tag{color:#ca402b}.atn{color:#a65926}.atv{color:#159393}.dec{color:#a65926}.var{color:#ca402b}.fun{color:#516aec}}.wiki h2{cursor:pointer}.wiki ul{margin-left:30px;margin-bottom:20px;list-style:disc;}.wiki ul li{margin-bottom:5px}.wiki ul ul{list-style:circle;margin-top:10px;margin-bottom:10px}</style>
+  </head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <body>
+  <div class="index-wrapper">
+    <div class="aside">
+      <div class="info-card">
+        <h1>BeiYuu</h1>
+        <a href="http://weibo.com/beiyuu/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25" /></a>
+        <a href="http://www.douban.com/people/beiyuu/" target="_blank"><img src="http://www.douban.com/favicon.ico" alt="" width="22" /></a>
+        <a href="http://instagram.com/beiyuu/" target="_blank"><img src="http://d36xtkk24g8jdx.cloudfront.net/bluebar/00c6602/images/ico/favicon.ico" alt="" width="22" /></a>
+      </div>
+      <div id="particles-js"></div>
+    </div>
 
-### Markdown
+    <div class="index-content">
+      <ul class="artical-list">
+        
+        <li>
+          <a href="/carriage-return-line-feed-new-line-end-file" class="title">回车、换行、和文件末尾空行</a>
+          <div class="title-desc">回车和换行在不同系统下面定义不同，时不时会有一些小问题出来，git 经常出现的 No new line at the end of file 也让很多人费解，需要梳理一下</div>
+        </li>
+        
+        <li>
+          <a href="/vps-config-python-vitrualenv-flask-gunicorn-supervisor-nginx" class="title">VPS环境搭建详解 (Virtualenv+Gunicorn+Supervisor+Nginx)</a>
+          <div class="title-desc">VPS环境搭建就是去理解各种概念的过程，这篇博客记录了在VPS上搭建Python环境的过程，其中除了Python特性的东西，基本概念是相通的。关键字：Python, Virtualenv, Flask, Gunicorn, Supervisor, Nginx</div>
+        </li>
+        
+        <li>
+          <a href="/css3-animation" class="title">CSS3动画详解</a>
+          <div class="title-desc">随着低版本IE份额下降，以及移动端流量的增长，在项目中也可以大胆使用CSS3动画来增强体验和提高产品的优雅程度，对那些不支持的浏览器也不用再费心去做更多兼容，所以，我们来研究下CSS3动画，到底应该怎么用。</div>
+        </li>
+        
+        <li>
+          <a href="/grunt-in-action" class="title">Grunt.js 在前端项目中的实战</a>
+          <div class="title-desc">在前端发展越来越需要工具的今天，Grunt.js这样的任务管理工具必不可少，一些流行的前端项目，也早已经用上了这个强大的工具，为项目的发布提供了不少方便，感谢这些牛人们做出的伟大贡献，如何在自己的项目中使用，就是这篇blog要研究的问题。</div>
+        </li>
+        
+        <li>
+          <a href="/readable-code" class="title">编写可读代码的艺术</a>
+          <div class="title-desc">将《The Art of Readable Code》的读书笔记和一点自己的认识总结起来写就这么一篇博客，强烈推荐此书。</div>
+        </li>
+        
+        <li>
+          <a href="/religion-basic" class="title">宗教基本知识</a>
+          <div class="title-desc">关于几个主要宗教的一些基本概念整理，了解一下，可以更有文化一点。</div>
+        </li>
+        
+        <li>
+          <a href="/git-vim-tutorial" class="title">Git时代的VIM不完全使用教程</a>
+          <div class="title-desc">在Git流行的时代，VIM的生态环境也有了长足的进步，令人感动。</div>
+        </li>
+        
+        <li>
+          <a href="/backbone-js-chrome-extension" class="title">使用Backbone.js开发Chrome便签插件</a>
+          <div class="title-desc">没有合适的插件，就只好自己动手了，同时也用Backbone.js来练练手。</div>
+        </li>
+        
+        <li>
+          <a href="/buy-guitar" class="title">如何选择与购买吉他</a>
+          <div class="title-desc">选择一把属于自己的吉他，并不是一件简单的事情，方方面面都需要注意到才会买到满意的吉他。</div>
+        </li>
+        
+        <li>
+          <a href="/github-pages" class="title">使用Github Pages建独立博客</a>
+          <div class="title-desc">Github本身就是不错的代码社区，他也提供了一些其他的服务，比如Github Pages，使用它可以很方便的建立自己的独立博客，并且免费。</div>
+        </li>
+        
+        <li>
+          <a href="/why-blog" class="title">我为什么写博客？</a>
+          <div class="title-desc">写博客这个这么古老的行为，还有必要拿出来说吗，我看有。</div>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  <script>
+    particlesJS("particles-js", {"particles":{"number":{"value":160,"density":{"enable":true,"value_area":800}},"color":{"value":"#ffffff"},"shape":{"type":"circle","stroke":{"width":0,"color":"#000000"},"polygon":{"nb_sides":5},"image":{"src":"img/github.svg","width":100,"height":100}},"opacity":{"value":1,"random":true,"anim":{"enable":true,"speed":1,"opacity_min":0,"sync":false}},"size":{"value":3,"random":true,"anim":{"enable":false,"speed":4,"size_min":0.3,"sync":false}},"line_linked":{"enable":true,"distance":150,"color":"#ffffff","opacity":0.4,"width":1},"move":{"enable":true,"speed":1,"direction":"none","random":true,"straight":false,"out_mode":"out","bounce":false,"attract":{"enable":false,"rotateX":600,"rotateY":600}}},"interactivity":{"detect_on":"canvas","events":{"onhover":{"enable":true,"mode":"bubble"},"onclick":{"enable":true,"mode":"repulse"},"resize":true},"modes":{"grab":{"distance":400,"line_linked":{"opacity":1}},"bubble":{"distance":250,"size":0,"duration":2,"opacity":0,"speed":3},"repulse":{"distance":400,"duration":0.4},"push":{"particles_nb":4},"remove":{"particles_nb":2}}},"retina_detect":true})
+  </script>
+</body>
 
-```markdown
-Syntax highlighted code block
+</html>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shichangyu58/Shichangyu58.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
